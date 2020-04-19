@@ -1,0 +1,4 @@
+.env
+app/db/blogs.sqlite
+.idea/
+*.py[cod]
